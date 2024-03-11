@@ -1,0 +1,3 @@
+/**
+ * defines path of assets
+ */
