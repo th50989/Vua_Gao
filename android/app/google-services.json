@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "957671811855",
+    "project_id": "derasoft-ass1",
+    "storage_bucket": "derasoft-ass1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:957671811855:android:73394540cbc667f132ac7a",
+        "android_client_info": {
+          "package_name": "com.example.internship_vuagao"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDd_IedFJQyv0iESxObePeUg-1OQLx0yQ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
